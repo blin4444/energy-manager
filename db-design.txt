@@ -1,0 +1,55 @@
+Station
+- ID: MEDIUMINT
+- Name: CHAR(32)
+- Company: CHAR(16) references Company
+- Supplier: CHAR(16) references Company NULLABLE
+- Location: POINT
+- Address: CHAR(128)
+- num35MPa: TINYINT
+- num70MPa: TINYINT
+- numHiMPa: TINYINT
+- Nozzle: TINYINT references Nozzle
+- DateOpened: DATE
+- PlanningStatus: TINYINT references StationPlanningStatus NULLABLE
+    Primary Key: (ID)
+    Unique Keys: (Name)
+
+StationStatus
+- StationID: MEDIUMINT references Station
+- RecordedAt: DATETIME
+- Capacity35MPa: SMALLINT
+- Capacity70MPa: SMALLINT
+- CapacityHiMPa: SMALLINT
+- Status35MPa: BOOL
+- Status70MPa: BOOL
+- StatusHiMPa: BOOL
+    PrimaryKey: (StationID, RecordedAt)
+
+StationOpenPeriods
+- StationID: MEDIUMINT references Station
+- Day: TINYINT
+- Start: TINYINT
+- End: TINYINT
+- Comment: VARCHAR NULLABLE
+    Primary Key: (StationID, Day)
+
+StationPlanningStatus
+- Name: CHAR(32)
+- Description: VARCHAR(128)
+    Primary Key: (Name)
+
+Nozzle
+- Name: CHAR(32)
+- Description: VARCHAR(128)
+- Company: CHAR(16) references Company
+- DataInterface: CHAR(32)
+
+Company
+- Name: CHAR(16)
+- Description: CHAR(64)
+- Website: CHAR(64)
+- IsStation: BOOL
+- IsSupplier: BOOL
+- IsNozzle: BOOL
+- Logo: CHAR(128)
+    Primary Key: (Name)

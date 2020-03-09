@@ -1,0 +1,965 @@
+
+[
+    {
+        "node": {
+            "nid": "15527",
+            "title": "Anaheim",
+            "station": "15021",
+            "status35": "offline",
+            "status70": "online",
+            "enabled35": false,
+            "enabled70": true,
+            "capacity35": "70 kg",
+            "capacity70": "70 kg",
+            "modified": "1583713745",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15528",
+            "title": "Campbell",
+            "station": "15022",
+            "status35": "online",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "66 kg",
+            "capacity70": "57 kg",
+            "modified": "1583713265",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15529",
+            "title": "Costa Mesa",
+            "station": "15036",
+            "status35": "offline",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "113 kg",
+            "modified": "1583713265",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15530",
+            "title": "Del Mar",
+            "station": "15047",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713265",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15531",
+            "title": "Diamond Bar",
+            "station": "15004",
+            "status35": "limited",
+            "status70": "limited",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "2 kg",
+            "capacity70": "2 kg",
+            "modified": "1583713751",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15532",
+            "title": "Fairfax-LA",
+            "station": "14999",
+            "status35": "limited",
+            "status70": "limited",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "2 kg",
+            "capacity70": "2 kg",
+            "modified": "1583713797",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15533",
+            "title": "Harris Ranch",
+            "station": "15035",
+            "status35": "online",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "46 kg",
+            "capacity70": "37 kg",
+            "modified": "1583713266",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15534",
+            "title": "Hayward",
+            "station": "15023",
+            "status35": "online",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "84 kg",
+            "capacity70": "75 kg",
+            "modified": "1583713266",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15535",
+            "title": "Hollywood",
+            "station": "15041",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713266",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15536",
+            "title": "La Canada Flintridge",
+            "station": "15037",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713266",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15537",
+            "title": "Lake Forest",
+            "station": "15039",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713266",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15538",
+            "title": "Lake Tahoe-Truckee",
+            "station": "15033",
+            "status35": "online",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "95 kg",
+            "capacity70": "86 kg",
+            "modified": "1583713266",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15540",
+            "title": "Mill Valley",
+            "station": "15024",
+            "status35": "offline",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "120 kg",
+            "modified": "1583713266",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15541",
+            "title": "Playa Del Rey",
+            "station": "15042",
+            "status35": "online",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "66 kg",
+            "capacity70": "57 kg",
+            "modified": "1583713266",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15543",
+            "title": "San Jose",
+            "station": "15029",
+            "status35": "offline",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "34 kg",
+            "modified": "1583713444",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15544",
+            "title": "San Juan Capistrano",
+            "station": "15005",
+            "status35": "limited",
+            "status70": "limited",
+            "enabled35": false,
+            "enabled70": true,
+            "capacity35": "58 kg",
+            "capacity70": "58 kg",
+            "modified": "1583713745",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15545",
+            "title": "Santa Barbara",
+            "station": "15048",
+            "status35": "online",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "81 kg",
+            "capacity70": "72 kg",
+            "modified": "1583713266",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15546",
+            "title": "Santa Monica",
+            "station": "14996",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713792",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15547",
+            "title": "Saratoga",
+            "station": "15031",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713623",
+            "stationHours": [
+                {
+                    "day": "0",
+                    "starthours": "700",
+                    "endhours": "2100",
+                    "comment": ""
+                },
+                {
+                    "day": "1",
+                    "starthours": "600",
+                    "endhours": "2100",
+                    "comment": ""
+                },
+                {
+                    "day": "2",
+                    "starthours": "600",
+                    "endhours": "2100",
+                    "comment": ""
+                },
+                {
+                    "day": "3",
+                    "starthours": "600",
+                    "endhours": "2100",
+                    "comment": ""
+                },
+                {
+                    "day": "4",
+                    "starthours": "600",
+                    "endhours": "2100",
+                    "comment": ""
+                },
+                {
+                    "day": "5",
+                    "starthours": "600",
+                    "endhours": "2100",
+                    "comment": ""
+                },
+                {
+                    "day": "6",
+                    "starthours": "700",
+                    "endhours": "2100",
+                    "comment": ""
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "nid": "15548",
+            "title": "South Pasadena",
+            "station": "15049",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713276",
+            "stationHours": [
+                {
+                    "day": "0",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "1",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "2",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "3",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "4",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "5",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "6",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "nid": "15549",
+            "title": "South San Francisco",
+            "station": "15032",
+            "status35": "online",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "32 kg",
+            "capacity70": "23 kg",
+            "modified": "1583713276",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15550",
+            "title": "UC Irvine",
+            "station": "15007",
+            "status35": "online",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "54 kg",
+            "capacity70": "54 kg",
+            "modified": "1583713788",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15552",
+            "title": "West Sacramento",
+            "station": "15006",
+            "status35": "limited",
+            "status70": "limited",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "63 kg",
+            "capacity70": "63 kg",
+            "modified": "1583713745",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15553",
+            "title": "Woodland Hills",
+            "station": "15014",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713802",
+            "stationHours": [
+                {
+                    "day": "0",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "1",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "2",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "3",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "4",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "5",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "6",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "nid": "15564",
+            "title": "Lawndale",
+            "station": "15003",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713796",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15566",
+            "title": "Long Beach",
+            "station": "15040",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713276",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15587",
+            "title": "San Ramon",
+            "station": "15030",
+            "status35": "online",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "47 kg",
+            "capacity70": "47 kg",
+            "modified": "1583713745",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15596",
+            "title": "Torrance",
+            "station": "15595",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "H2 Pipeline",
+            "capacity70": "H2 Pipeline",
+            "modified": "1583713276",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15602",
+            "title": "Fremont",
+            "station": "15280",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713276",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15663",
+            "title": "Mountain View",
+            "station": "15010",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": false,
+            "enabled70": true,
+            "capacity35": "48 kg",
+            "capacity70": "48 kg",
+            "modified": "1583713745",
+            "stationHours": [
+                {
+                    "day": "0",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "1",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "2",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "3",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "4",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "5",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "6",
+                    "starthours": "600",
+                    "endhours": "2200",
+                    "comment": ""
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "nid": "15668",
+            "title": "Cal State LA",
+            "station": "14972",
+            "status35": "offhours",
+            "status70": "offhours",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": " ",
+            "capacity70": " ",
+            "modified": "1583713745",
+            "stationHours": [
+                {
+                    "day": "1",
+                    "starthours": "900",
+                    "endhours": "1700",
+                    "comment": ""
+                },
+                {
+                    "day": "2",
+                    "starthours": "900",
+                    "endhours": "1700",
+                    "comment": ""
+                },
+                {
+                    "day": "3",
+                    "starthours": "900",
+                    "endhours": "1700",
+                    "comment": ""
+                },
+                {
+                    "day": "4",
+                    "starthours": "900",
+                    "endhours": "1700",
+                    "comment": ""
+                },
+                {
+                    "day": "5",
+                    "starthours": "900",
+                    "endhours": "1700",
+                    "comment": ""
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "nid": "15675",
+            "title": "Ontario",
+            "station": "15043",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "80 kg",
+            "capacity70": "60 kg",
+            "modified": "1583713746",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15678",
+            "title": "Thousand Oaks",
+            "station": "15281",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713277",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15759",
+            "title": "Emeryville",
+            "station": "15688",
+            "status35": "online",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "46 kg",
+            "capacity70": "46 kg",
+            "modified": "1583713277",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15916",
+            "title": "Citrus Heights",
+            "station": "15488",
+            "status35": "offline",
+            "status70": "online",
+            "enabled35": false,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "60 kg",
+            "modified": "1583713604",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15824",
+            "title": "Palo Alto",
+            "station": "15026",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "0 kg",
+            "modified": "1583713745",
+            "stationHours": [
+                {
+                    "day": "0",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "1",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "2",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "3",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "4",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "5",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "6",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "nid": "15825",
+            "title": "LAX",
+            "station": "15015",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "58 kg",
+            "capacity70": "58 kg",
+            "modified": "1583713745",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15918",
+            "title": "Sacramento",
+            "station": "15486",
+            "status35": "offline",
+            "status70": "online",
+            "enabled35": false,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "92 kg",
+            "modified": "1583713605",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15928",
+            "title": "Oakland - Grand Ave",
+            "station": "15483",
+            "status35": "online",
+            "status70": "online",
+            "enabled35": true,
+            "enabled70": true,
+            "capacity35": "369.15 kg",
+            "capacity70": "369.15 kg",
+            "modified": "1583713745",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15936",
+            "title": "San Francisco - Harrison St",
+            "station": "15478",
+            "status35": "offline",
+            "status70": "offline",
+            "enabled35": false,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "132 kg",
+            "modified": "1583713618",
+            "stationHours": [
+                {
+                    "day": "0",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "1",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "2",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "3",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "4",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "5",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "6",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "nid": "15937",
+            "title": "San Francisco - Mission St",
+            "station": "15477",
+            "status35": "offline",
+            "status70": "online",
+            "enabled35": false,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "67 kg",
+            "modified": "1583713608",
+            "stationHours": []
+        }
+    },
+    {
+        "node": {
+            "nid": "15940",
+            "title": "San Francisco - Third St",
+            "station": "15476",
+            "status35": "offline",
+            "status70": "online",
+            "enabled35": false,
+            "enabled70": true,
+            "capacity35": "0 kg",
+            "capacity70": "131 kg",
+            "modified": "1583713607",
+            "stationHours": [
+                {
+                    "day": "0",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "1",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "2",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "3",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "4",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "5",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                },
+                {
+                    "day": "6",
+                    "starthours": "700",
+                    "endhours": "2200",
+                    "comment": ""
+                }
+            ]
+        }
+    }
+]
