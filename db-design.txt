@@ -28,8 +28,8 @@ StationStatus
 StationOpenPeriods
 - StationID: MEDIUMINT references Station
 - Day: TINYINT
-- Start: TINYINT
-- End: TINYINT
+- Start: CHAR(4)
+- End: CHAR(4)
 - Comment: VARCHAR NULLABLE
     Primary Key: (StationID, Day)
 
