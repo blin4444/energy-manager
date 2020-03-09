@@ -41,7 +41,7 @@ class StationData {
         $intHi = 0;
 
         return new self(
-            intval($obj['nid']),
+            intval($obj['station']),
             intval($obj['modified']),
             $is35Available,
             $is70Available,
@@ -52,15 +52,7 @@ class StationData {
         );
     }
 
-    public function record() {
-        $mysqli = db_connect();
-        if ($mysqli->connect_errno) {
-            if ($mysqli->connect_error) {
-                die('Connect Error (' . $mysqli->connect_errno . ') '
-                        . $mysqli->connect_error);
-            }
-        }
-
+    public function record($mysqli) {
         $recordedAt = $this->recordedAt;
         $dateStr = date("Y:m:d H:i:s", $recordedAt);
 

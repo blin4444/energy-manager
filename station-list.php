@@ -14,6 +14,12 @@ if ($mysqli->connect_errno) {
 echo $mysqli->host_info . "\n";
 
 $custresult = $mysqli->query("SELECT * FROM Station");
+$stationResult = $mysqli->query("SELECT `id` FROM Station");
+
+$validIdsDict = [];
+while ($resultRow = $stationResult->fetch_array()) {
+	$validIdsDict[$resultRow[0]] = true;
+}
 ?>
 <!doctype html>
 <html>
@@ -22,6 +28,7 @@ $custresult = $mysqli->query("SELECT * FROM Station");
 <?php
 
 echo create_table_from_query_result($custresult);
+print_r($validIdsDict);
 
 ?>
 </body>
