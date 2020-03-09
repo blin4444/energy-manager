@@ -11,15 +11,8 @@ if ($mysqli->connect_errno) {
 				. $mysqli->connect_error);
 	}
 }
-echo $mysqli->host_info . "\n";
 
-$custresult = $mysqli->query("SELECT * FROM Station");
-$stationResult = $mysqli->query("SELECT `id` FROM Station");
-
-$validIdsDict = [];
-while ($resultRow = $stationResult->fetch_array()) {
-	$validIdsDict[$resultRow[0]] = true;
-}
+$stationResult = $mysqli->query("SELECT * FROM Station");
 ?>
 <!doctype html>
 <html>
@@ -27,8 +20,7 @@ while ($resultRow = $stationResult->fetch_array()) {
 <body>
 <?php
 
-echo create_table_from_query_result($custresult);
-print_r($validIdsDict);
+echo create_table_from_query_result($stationResult);
 
 ?>
 </body>
