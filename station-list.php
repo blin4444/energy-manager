@@ -1,7 +1,8 @@
 <?php
 /* Used to test if database connection works (will be removed) */
 require("settings.php");
-require("dbutils.php");
+require("db-utils.php");
+require("table.php");
 
 $mysqli = db_connect();
 if ($mysqli->connect_errno) {
@@ -16,7 +17,7 @@ $custresult = $mysqli->query("SELECT * FROM Station");
 ?>
 <!doctype html>
 <html>
-<head><title>Test connect</title></head>
+<head><title>Station List</title></head>
 <body>
 <?php
 

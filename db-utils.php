@@ -1,4 +1,6 @@
 <?php
+require("settings.php");
+
 /* A collection of (hopefully) useful functions for database access */
 $DB_IS_INIT = false;
 $mysqli = null;
