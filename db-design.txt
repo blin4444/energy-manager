@@ -10,7 +10,7 @@ Station
 - numHiMPa: TINYINT
 - Nozzle: TINYINT references Nozzle
 - DateOpened: DATE
-- PlanningStatus: TINYINT references StationPlanningStatus NULLABLE
+- PlanningStatus: CHAR(32) references StationPlanningStatus NULLABLE (null indicates open)
     Primary Key: (ID)
     Unique Keys: (Name)
 
